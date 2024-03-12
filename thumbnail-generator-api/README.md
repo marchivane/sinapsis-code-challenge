@@ -1,7 +1,7 @@
 # Code Challenge: Thumbnail Generator API
 
 ## Goal
-Build a simple API that generates thumbnails from a source image
+Build a simple API that generates thumbnails from a source image.
 
 ## Requirements
 - The API should provide at least 1 endpoint where the user will be able to POST the original image
